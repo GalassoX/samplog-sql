@@ -19,7 +19,7 @@
 
 /* 
 native Log(input[]);
-native Log(input[], type); // "type" works to classify logs
+native LogEx(input[], type); // "type" works to classify logs
 native ConnectDatabaseLogs(const host[], const user[], const password[], const database[]);
 */
 
